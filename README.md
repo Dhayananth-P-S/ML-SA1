@@ -17,8 +17,8 @@ and train the models and note down their accuracies
 # PROGRAM:
 ```py
 
-Developed by:YUVAN SUNDAR S
-REGISTER NUMBER:212223040250
+Developed by:Dhayananth.P.S
+REGISTER NUMBER:212223040039
 
 
 import pandas as pd
